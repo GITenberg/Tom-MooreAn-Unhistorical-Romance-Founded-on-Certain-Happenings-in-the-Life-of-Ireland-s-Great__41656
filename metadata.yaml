@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41283'
     url: http://www.gutenberg.org/2009/agents/41283
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41656#Tom-MooreAn-Unhistorical-Romance-Founded-on-Certain-Happenings-in-the-Life-of-Ireland-s-Great_
 gutenberg_issued: '2012-12-18'
 gutenberg_type: Text
 identifiers:
